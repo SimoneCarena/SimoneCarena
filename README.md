@@ -11,7 +11,7 @@
 * 📚 I'm currently a Master Student in Computer Engineering (Automation and Intelligent Cyber-Physical Systems) at Politecnico di Torino
 * 🎓 I got my Bachelor degree in Computer Engineering at Politecnico di Torino
 * 🤖 I'm primarily interested in robotics, control theory and machine learning applied to these fields
-* I can fluently speak italian 🇮🇹 and english 🇬🇧
+* I fluently speak italian 🇮🇹 and english 🇬🇧
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
