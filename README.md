@@ -1,7 +1,7 @@
 <h2 align="center">Simone Carena</h2>
 <h3 align="center">Computer Engineering student (Automation and Intelligent Cyber-Physical Systems)</h3>
 
----
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 <p>
 
 <img align="right"  alt="Coding" width=250 src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
@@ -14,7 +14,7 @@
 * I can fluently speak italian 🇮🇹 and english 🇬🇧
 </p>
 
----
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -31,8 +31,10 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
 
----
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=simonecarena&show_icons=true&locale=en&layout=compact">
 </p>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
