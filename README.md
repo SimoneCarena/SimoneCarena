@@ -33,8 +33,6 @@
 
 ---
 
-<p style="text-align: center;">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonecarena)
-
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=simonecarena&show_icons=true&locale=en&layout=compact">
 </p>
