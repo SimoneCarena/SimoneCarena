@@ -32,5 +32,6 @@
 </p>
 
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
+<p align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonecarena&hide=javascript,css,scss,html&theme=tokyonight)
+</p>
