@@ -32,6 +32,6 @@
 </p>
 
 ---
-<p align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonecarena&theme=tokyonight)
-</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonecarena)
+
